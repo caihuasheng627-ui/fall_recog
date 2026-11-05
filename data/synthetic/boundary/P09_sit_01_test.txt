@@ -1,0 +1,13 @@
+person=P09
+action=sit
+seq=01
+split=test
+height_cm=170
+distance_m=1.5
+radar_height_m=1.8
+facing=front
+mat=yes
+source=synthetic-boundary
+motion_onset_ms=3000
+note=快速坐下，速度和位移都达到跌倒门限，并坐稳超过 8 秒。高度停在坐姿，不应当报警
+expect=no_alarm

@@ -1,0 +1,12 @@
+person=P03
+action=empty
+seq=03
+split=train
+height_cm=160
+distance_m=2.0
+radar_height_m=1.8
+facing=front
+mat=yes
+source=synthetic
+motion_onset_ms=
+note=

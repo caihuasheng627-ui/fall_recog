@@ -1,0 +1,12 @@
+person=
+action=
+seq=
+split=
+height_cm=
+distance_m=
+radar_height_m=
+facing=
+mat=
+source=board
+motion_onset_ms=
+note=

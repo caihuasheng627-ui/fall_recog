@@ -1,0 +1,13 @@
+person=P09
+action=walk
+seq=01
+split=test
+height_cm=170
+distance_m=1.5
+radar_height_m=1.8
+facing=front
+mat=yes
+source=synthetic-boundary
+motion_onset_ms=3000
+note=快走后急停，速度约 100、位移约 40 厘米，再站立超过 8 秒。高度没有下降，不应当报警
+expect=no_alarm

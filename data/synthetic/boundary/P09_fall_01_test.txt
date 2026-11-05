@@ -1,0 +1,13 @@
+person=P09
+action=fall
+seq=01
+split=test
+height_cm=170
+distance_m=1.5
+radar_height_m=1.8
+facing=front
+mat=yes
+source=synthetic-boundary
+motion_onset_ms=3000
+note=缓慢倒下，位移已经够大，高度也到了地面，但速度低于跌倒门限。和主动躺下是同一类轨迹，不能放宽门限
+expect=no_alarm
